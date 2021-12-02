@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MrLucaDev
-- 👀 I’m interested in making content I love (Star Wars, Marvel and more). Mostly in Java.
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on anything really
+- 👀 I’m interested in making content I love, mostly in Java.
 - 📫 How to reach me: @ItsMrLuca on Twitter
 
 <!---
