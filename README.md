@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrLucaDev
-- 👀 I’m interested in making content I love, mostly in Java.
+- 👀 I’m interested in making content I love, mostly in Java and C#.
 - 📫 How to reach me: @ItsMrLuca on Twitter
 
 <!---
