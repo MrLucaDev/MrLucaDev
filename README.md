@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MrLucaDev
-- 👀 I’m interested in making content I love, mostly in Java and C#.
-- 📫 How to reach me: @ItsMrLuca on Twitter or MrLuca#6869 on Discord.
+- 👋 Hi, I’m Luca
+- 🌏 Trying to make the world a better place
+- 📫 How to reach me: luca@ldfent.com
 
 <!---
 MrLucaDev/MrLucaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
